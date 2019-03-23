@@ -1,0 +1,5 @@
+##ignore this file##
+*.pyc
+*.log
+/venv/
+/.idea/
